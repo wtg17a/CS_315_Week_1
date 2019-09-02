@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS 315 Week 1</string>
+    <string name="edit_message">password</string>
+    <string name="button_enter">Submit</string>
+</resources>
